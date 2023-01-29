@@ -1,0 +1,505 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.33f1 (915a7af8b0d5) revision 9525882'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Core' Language: 'en' Physical Memory: 11208 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.33f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/jonas/Desktop/Code/Mobile Game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54785
+Successfully changed project path to: C:/Users/jonas/Desktop/Code/Mobile Game
+C:/Users/jonas/Desktop/Code/Mobile Game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 99.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.33f1 (915a7af8b0d5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/jonas/Desktop/Code/Mobile Game/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R7 Graphics (ID=0x130f)
+    Vendor:   
+    VRAM:     5604 MB
+    Driver:   27.20.1034.6
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56152
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005756 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 105.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.176 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1177ms)
+		BeginReloadAssembly (130ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (898ms)
+			LoadAssemblies (124ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (300ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (54ms)
+			SetupLoadedEditorAssemblies (348ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (105ms)
+				BeforeProcessingInitializeOnLoad (19ms)
+				ProcessInitializeOnLoadAttributes (159ms)
+				ProcessInitializeOnLoadMethodAttributes (53ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007736 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\jonas\Desktop\Code\Mobile Game\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 101.85 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.041 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2043ms)
+		BeginReloadAssembly (277ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (1643ms)
+			LoadAssemblies (206ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (548ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (92ms)
+			SetupLoadedEditorAssemblies (610ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (102ms)
+				BeforeProcessingInitializeOnLoad (130ms)
+				ProcessInitializeOnLoadAttributes (322ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 1.25 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2206 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 109.7 MB.
+System memory in use after: 109.7 MB.
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 2654.
+Total: 5.255400 ms (FindLiveObjects: 0.385200 ms CreateObjectMapping: 0.108400 ms MarkObjects: 4.492700 ms  DeleteObjects: 0.267300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Chest.png
+  artifactKey: Guid(9b1dc92ba75b1064ebcd3af579848e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Chest.png using Guid(9b1dc92ba75b1064ebcd3af579848e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4d0d4c8f2844d2ae92158f277c20c9') in 0.327706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Characters/Blob Players/BlobPlayer_Pink.png
+  artifactKey: Guid(addd2af175d074643a3b1f29f6c23041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Characters/Blob Players/BlobPlayer_Pink.png using Guid(addd2af175d074643a3b1f29f6c23041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01f087f51d806fb249e8dd87fe88e3eb') in 0.107597 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000543 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Head.png
+  artifactKey: Guid(bb9dc33af8cec2a499646621219565dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Head.png using Guid(bb9dc33af8cec2a499646621219565dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9407365f9e2a157bd27adf0afde5db8') in 0.059628 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Characters/Blob Players/BlobPlayer_Blue.png
+  artifactKey: Guid(ecd359c045351424082d2ba03ec132df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Characters/Blob Players/BlobPlayer_Blue.png using Guid(ecd359c045351424082d2ba03ec132df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '622ce744fc50cad4573f7bc508bd8f14') in 0.097839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Limb.png
+  artifactKey: Guid(f34bece99f09dad4e8002e10e7eb9a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Characters/Stickman/Stick_Limb.png using Guid(f34bece99f09dad4e8002e10e7eb9a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b22753e35b1b688b65239319302f436') in 0.063417 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Characters/Stickman
+  artifactKey: Guid(149ac9786c39a364b928bf0b60e6efb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Characters/Stickman using Guid(149ac9786c39a364b928bf0b60e6efb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5701b765ab1c99bee53cd84380ac75b7') in 0.017287 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.321013 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Brute.png
+  artifactKey: Guid(8192c590fb896e8478742bc3423292c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Brute.png using Guid(8192c590fb896e8478742bc3423292c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fab8c59d574032c8bdacdc8f362adca') in 0.072422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Commoner.png
+  artifactKey: Guid(4ae49494a73ff584099f601cb159abba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Commoner.png using Guid(4ae49494a73ff584099f601cb159abba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5614213af89a7b6103312950d17b7a97') in 0.041753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000495 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Dragon.png
+  artifactKey: Guid(4574f971d70a83c41ade6083ada1035a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Dragon.png using Guid(4574f971d70a83c41ade6083ada1035a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '179b472ba05af58a0d695c161b4e41d1') in 0.059520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Princess.png
+  artifactKey: Guid(48cd8048939cc274dae16a9493829244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Princess.png using Guid(48cd8048939cc274dae16a9493829244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e749bba6350eba225ddd9c7be8b64dec') in 0.052376 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Characters/Fantasy/DarkWizard.png
+  artifactKey: Guid(31b17986fa5b13f4f9b7403589287a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Characters/Fantasy/DarkWizard.png using Guid(31b17986fa5b13f4f9b7403589287a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ea31c6f8129b0639f282b4d97c77dc5') in 0.054316 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Troll.png
+  artifactKey: Guid(07f23995d5720bd4d9cd266799cef6fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Characters/Fantasy/Troll.png using Guid(07f23995d5720bd4d9cd266799cef6fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b85745e09368c91bebbc79a162b1af1') in 0.054330 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Characters/Fantasy/LightWizard.png
+  artifactKey: Guid(4836c09be31426e49b52ea966be0a3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Characters/Fantasy/LightWizard.png using Guid(4836c09be31426e49b52ea966be0a3c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c71da65fe2dd7c348d61931cb638bfef') in 0.056154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.443165 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Soldiers.png
+  artifactKey: Guid(2164a1816f29acf45ad76327ffa671c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Characters/Soldiers/Soldiers.png using Guid(2164a1816f29acf45ad76327ffa671c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe10e3daec409e92102306b597c27faa') in 0.162205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Characters/Soldiers/SoldiersFront.png
+  artifactKey: Guid(db4367b3d41bdbb418fa7bdeea71e49e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Characters/Soldiers/SoldiersFront.png using Guid(db4367b3d41bdbb418fa7bdeea71e49e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1986b8ca88a4e94d8b9450606ac04003') in 0.096639 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.421428 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Sounds/Bonus.wav
+  artifactKey: Guid(5ab8fc664ca4d604f820e255005a664a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Sounds/Bonus.wav using Guid(5ab8fc664ca4d604f820e255005a664a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f55b9090a8e72b48fad96a00a7c64092') in 0.171760 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000934 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice01.wav
+  artifactKey: Guid(558f9f56f603a954b8d45e17e89341d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice01.wav using Guid(558f9f56f603a954b8d45e17e89341d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '674836c5e016886bba7f14f7ec94fffa') in 0.054660 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Sounds/ButtonHover.wav
+  artifactKey: Guid(e7992d172691ce147bde04a9ea103f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Sounds/ButtonHover.wav using Guid(e7992d172691ce147bde04a9ea103f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ca1c32d74edee193a88fec117d9a1f2') in 0.064052 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Sounds/ButtonPress.wav
+  artifactKey: Guid(00b18e15346f38a4e8535ac98e4ac9ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Sounds/ButtonPress.wav using Guid(00b18e15346f38a4e8535ac98e4ac9ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d98de2f31af26376f9ffa1c32dc2489') in 0.049434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000698 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Sounds/LandingFootsteps.wav
+  artifactKey: Guid(a35ec44331d4b514cabf31e928f058b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Sounds/LandingFootsteps.wav using Guid(a35ec44331d4b514cabf31e928f058b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ae786e66a514540646d2e4e53aa904a') in 0.049687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Sounds/RespawnCountdown.wav
+  artifactKey: Guid(33469e3f01006ba44bdcfb56b0e3e0b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Sounds/RespawnCountdown.wav using Guid(33469e3f01006ba44bdcfb56b0e3e0b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0501f925282275caf4f53913d7a3eec1') in 0.061796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice02.wav
+  artifactKey: Guid(2b6e306f144fd2047ad36490140f8b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Sounds/GruntVoice02.wav using Guid(2b6e306f144fd2047ad36490140f8b85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8badee19494e0783e2a325dcf5ee3f0') in 0.055617 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Sounds/GameOver.wav
+  artifactKey: Guid(832aa39d4fbe053428a67083bb091a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Sounds/GameOver.wav using Guid(832aa39d4fbe053428a67083bb091a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f749195f6682d960174b97217162b49f') in 0.044587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Sounds/DeathVoice.wav
+  artifactKey: Guid(bd8857660a16ba549b8cc522d93d9117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Sounds/DeathVoice.wav using Guid(bd8857660a16ba549b8cc522d93d9117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '867db83fa04d015385f7ab989662fb4c') in 0.059452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.417163 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner
+  artifactKey: Guid(e54fc2d4cb5b4544c9785a63fee616df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/Items & Icons/Gold Miner using Guid(e54fc2d4cb5b4544c9785a63fee616df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39e38d7ef301bf32a2f8b0c25e563f5b') in 0.018212 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.013287 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\jonas\Desktop\Code\Mobile Game\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.26 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.055 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2056ms)
+		BeginReloadAssembly (280ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (18ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (103ms)
+		EndReloadAssembly (1640ms)
+			LoadAssemblies (214ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (612ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (83ms)
+			SetupLoadedEditorAssemblies (568ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (11ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (119ms)
+				ProcessInitializeOnLoadAttributes (399ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2201 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112.8 MB.
+System memory in use after: 112.7 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2700.
+Total: 5.442500 ms (FindLiveObjects: 0.428900 ms CreateObjectMapping: 0.120400 ms MarkObjects: 4.663400 ms  DeleteObjects: 0.228000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 5710.768441 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/kick24.png
+  artifactKey: Guid(d3e42e0415d2c6d42bf3322ad869cd59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/kick24.png using Guid(d3e42e0415d2c6d42bf3322ad869cd59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63052c46763143ba99ffacee612aac78') in 0.188665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000418 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte2.png
+  artifactKey: Guid(2728c0fef89a13c419a81bf9a54f6a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte2.png using Guid(2728c0fef89a13c419a81bf9a54f6a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a138ddbeb3b48a057cfc2ac451c178de') in 0.084954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte5.png
+  artifactKey: Guid(235f1400015b44c4c8f615d95995a2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte5.png using Guid(235f1400015b44c4c8f615d95995a2dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e68f7d6df130f2c42fd909a029017f9c') in 0.073552 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte3.png
+  artifactKey: Guid(6ff5412182200304e9adf8e0d9df7cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte3.png using Guid(6ff5412182200304e9adf8e0d9df7cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '231879837f55b6b737cf9b2a490ad393') in 0.081045 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000533 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte4.png
+  artifactKey: Guid(a6b05630629b61c48b6f28fef67e180e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte4.png using Guid(a6b05630629b61c48b6f28fef67e180e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be254fdd5af0acb8719a972b9340361a') in 0.077428 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte6.png
+  artifactKey: Guid(a5daee40a3947664a96c261e6bf0a1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte6.png using Guid(a5daee40a3947664a96c261e6bf0a1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad1958d15ace1debd3f5e59dfa70764c') in 0.066136 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte1.png
+  artifactKey: Guid(41bb6f74808420c44962fc003770b46e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte1.png using Guid(41bb6f74808420c44962fc003770b46e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed6fc7da4ac0a9dabf22bca560624465') in 0.062078 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte7.png
+  artifactKey: Guid(ce2c884d98f467a4f91678662284d9d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte7.png using Guid(ce2c884d98f467a4f91678662284d9d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6449ce57ef5dfca6dfffc5aab218c162') in 0.069098 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000439 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte10.png
+  artifactKey: Guid(9d4f4b8017bdd144cbb0153146ea77f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte10.png using Guid(9d4f4b8017bdd144cbb0153146ea77f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49705127926d2302b5ab406cb5ac7b69') in 0.053402 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte9.png
+  artifactKey: Guid(868e515d55f0ae24ba1aa773a9cc2b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte9.png using Guid(868e515d55f0ae24ba1aa773a9cc2b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3797bffa0f62140fd41268e5ebbf553') in 0.056304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000484 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte8.png
+  artifactKey: Guid(8df33f67b93efba4b816e6d859677300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte8.png using Guid(8df33f67b93efba4b816e6d859677300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '133fcf3940fab5261a5750f2deabfaec') in 0.067372 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000407 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/kick25.png
+  artifactKey: Guid(9d926626971ce684d898379040e39d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/kick25.png using Guid(9d926626971ce684d898379040e39d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f83b7513b97a210a20399bd5dfc74fc') in 0.058378 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.036272 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte11.png
+  artifactKey: Guid(3d7aee1bc50eafe448c971f515383d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte11.png using Guid(3d7aee1bc50eafe448c971f515383d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38fdc10b93447770658aaca62360e2d9') in 0.052192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000476 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte13.png
+  artifactKey: Guid(abe006a821e57e948938edb348ad9d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte13.png using Guid(abe006a821e57e948938edb348ad9d90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be7787ad56d4f4d64d2d40cdb9aa5b44') in 0.078853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000455 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte15.png
+  artifactKey: Guid(9d3c5ea0438f7ec41a9116ea62103b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte15.png using Guid(9d3c5ea0438f7ec41a9116ea62103b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbe551b10cb49ebb28f0159a846be6eb') in 0.066221 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000580 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte16.png
+  artifactKey: Guid(c18744d8138290641863e009f9f9a141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte16.png using Guid(c18744d8138290641863e009f9f9a141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '090cb12c15ab9c223cb529f586054d3d') in 0.071459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000538 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte12.png
+  artifactKey: Guid(561ccfa95cf647049a103fda31636705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte12.png using Guid(561ccfa95cf647049a103fda31636705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37506fd4f9454efb657fed0bd135334b') in 0.134016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte18.png
+  artifactKey: Guid(c6f20f0f2ce07ce4a9ede927ef9827cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte18.png using Guid(c6f20f0f2ce07ce4a9ede927ef9827cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '702f8c26158cad873c9f024cde73d18e') in 0.073218 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte24.png
+  artifactKey: Guid(5df48a011ea4e484988530175314881a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte24.png using Guid(5df48a011ea4e484988530175314881a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5e24822f6c6e0cf150f32263113e796') in 0.086849 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000399 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte23.png
+  artifactKey: Guid(b2e6cf21f7918b8479951c597a07228f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte23.png using Guid(b2e6cf21f7918b8479951c597a07228f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88ea67fee1666f9a41ead88d01322a4c') in 0.074455 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte19.png
+  artifactKey: Guid(3ff9c4b2c3d6f2b458a171877364d32c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte19.png using Guid(3ff9c4b2c3d6f2b458a171877364d32c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a434e56c7ab3e1f3432fe1c4430caa') in 0.065484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte22.png
+  artifactKey: Guid(f0004af7c8e367c428baa2672a90c7fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte22.png using Guid(f0004af7c8e367c428baa2672a90c7fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eff79f79d83597247ddaa9496ac7cce1') in 0.061624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte14.png
+  artifactKey: Guid(89c8ee83a66db7945be575dd9fc8b268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte14.png using Guid(89c8ee83a66db7945be575dd9fc8b268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5e9a20de8cc6d23ecf45d54ffbf8d24') in 0.069967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000503 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte17.png
+  artifactKey: Guid(f9b317a1670565e4cb5e5af42d0d79fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte17.png using Guid(f9b317a1670565e4cb5e5af42d0d79fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b352d514107c06469d8209b33f2f043') in 0.052930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte20.png
+  artifactKey: Guid(ebb57daa8bda31247b103cdd5668331b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte20.png using Guid(ebb57daa8bda31247b103cdd5668331b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96fe04369376c71c69ebd55c83b5f6cb') in 0.051851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte21.png
+  artifactKey: Guid(08b9caf2f08ae8a458ff45051ea6f1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/2D Fantasy Character Pack/Sprites/zombie/long_byte21.png using Guid(08b9caf2f08ae8a458ff45051ea6f1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a8053b6f2872d40cdfaee991f91781b') in 0.059685 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.839346 seconds.
+  path: Assets/Assets/Brackeys/2D Mega Pack/UI/Cursors/Cursor_Normal.png
+  artifactKey: Guid(d673263d78ce47f488b74edbdd14b6f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Brackeys/2D Mega Pack/UI/Cursors/Cursor_Normal.png using Guid(d673263d78ce47f488b74edbdd14b6f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4409574ab6f1569061f1d6432b88abe0') in 0.079011 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
